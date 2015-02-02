@@ -1,0 +1,20 @@
+{
+  "main": "index.html",
+  "name": "demo for vrjs/axis",
+  "description": "demo app show creation of axis object (three.sj)",
+  "version": "0.1.0",
+  "keywords": [ "axis", "threejs", "vrjs", "node-webkit" ],
+  "window": {
+    "title": "vrjs/axis",
+    "icon": "link.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,
+    "height": 500,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 800,
+    "max_height": 600
+  }
+}
