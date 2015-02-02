@@ -19,3 +19,8 @@ The `make` function can accept an options object.  The following properties are 
 
 - **neg**:  boolean value, indicating if negative dimensions (dashed) should be shown.  Default is false
 - **length**:  length (pixels) of axes.  Default is 250
+
+```
+var axis = require('..')(THREE);
+mesh.add(axis.make({neg:true, length:300}));
+```
