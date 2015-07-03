@@ -1,0 +1,25 @@
+{
+  "name": "axis",
+  "version": "1.0.0",
+  "description": "axis object for vrjs",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrjs/axis.git"
+  },
+  "keywords": [
+    "vrjs"
+  ],
+  "author": "Scott Frees <scott.frees@gmail.com> (http://scottfrees.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrjs/axis/issues"
+  },
+  "homepage": "https://github.com/vrjs/axis#readme"
+}
