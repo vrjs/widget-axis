@@ -1,6 +1,5 @@
 # vrjs/axis
-Simple utility to build a THREE.js 3D axis object.  The module uses node's require
-module pattern - it should be run within something like [nw](http://nwjs.io/)
+Simple utility to build a THREE.js 3D axis object.  The module uses node's require module pattern and is meant to be used within the [vrjs](http://vrjs.io) framework using [electron](http://electron.atom.io/).
 
 ## Usage
 The export is a constructor which accepts a reference to THREE.  The constructor
